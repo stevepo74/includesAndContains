@@ -1,2 +1,2 @@
-# includesAndContains
+# sortMethod
 Created with CodeSandbox
